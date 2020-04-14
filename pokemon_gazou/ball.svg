@@ -1,0 +1,179 @@
+<!DOCTYPE html >
+<html lang="ja" prefix="og: http://ogp.me/ns#">
+  <head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <title>ページが見つかりませんでした｜ポケモンずかん</title>
+    <meta name="keywords" content="ポケモン,ぽけもん,ポケットモンスター,図鑑,ずかん,ポケモンずかん,ぽけもんずかん"/>
+    <meta name="description" content="『ポケットモンスター』シリーズに登場するポケモンの情報を見ることができる、「ポケモンずかん」。"/>
+    <meta property="og:title" content="トップページ｜ポケモンずかん"/>
+    <meta property="og:url" content="https://zukan.pokemon.co.jp/"/>
+    <meta property="og:type" content="game"/>
+    <meta property="og:image" content="https://zukan.pokemon.co.jp/img/og/fb.jpg"/>
+    <meta property="og:description" content="『ポケットモンスター』シリーズに登場するポケモンの情報を見ることができる、「ポケモンずかん」。"/>
+    <meta property="fb:app_id" content="196376567077608"/>
+    <meta property="og:site_name" content="ポケモンずかん"/>
+    <meta name="twitter:card" content="summary_large_image"/>
+    <meta name="twitter:site" content="@Pokemon_cojp"/>
+    <meta name="twitter:image" content="https://zukan.pokemon.co.jp/img/og/tw.jpg"/>
+    <link rel="preconnect" src="https://bid.g.doubleclick.net"/>
+    <link rel="preconnect" src="https://b97.yahoo.co.jp"/>
+    <link rel="preconnect" src="https://www.google.co.jp"/>
+    <link rel="preconnect" src="https://www.google.com"/>
+    <link rel="preconnect" src="https://zukan.pokemon.co.jp"/>
+    <link rel="preconnect" src="https://googleads.g.doubleclick.net"/>
+    <link rel="preconnect" src="https://www.google-analytics.com"/>
+    <link rel="stylesheet" href="/css/style.css" type="text/css"/>
+    <link rel="stylesheet" href="/css/slick.css" type="text/css"/>
+    <link rel="stylesheet" href="/css/nouislider.min.css" type="text/css"/>
+    <!-- Google Tag Manager-->
+    <noscript>
+      <iframe src="//www.googletagmanager.com/ns.html?id=GTM-T567ZR" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+      (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-T567ZR');
+    </script>
+    <!-- End Google Tag Manager-->
+  </head>
+  <body>
+    <header class="wrap__header" id="header">
+      <h1 class="logo__header"><a class="js-btn-resetPage" onclick="dataLayer.push({'click-ctg':'poke_zukan', 'click-act':'ナビ', 'click-lbl':'ロゴ', 'event':'click'});" href="/"><img src="/img/logo.svg" alt="ぽけもんずかん"/></a></h1>
+      <nav class="nav__header">
+        <ul class="list__nav__header">
+          <li class="item__list__nav__header is-sort"><a class="link__nav__header js-btn-modal sort" onclick="dataLayer.push({'click-ctg':'poke_zukan', 'click-act':'ナビ', 'click-lbl':'表示順', 'event':'click'});"><span class="icon sort"><img class="img" src="/img/icon_sort.svg" alt="表示順"/></span><span class="span">表示順</span></a></li>
+          <li class="item__list__nav__header"><a class="link__nav__header js-btn-modal search" onclick="dataLayer.push({'click-ctg':'poke_zukan', 'click-act':'ナビ', 'click-lbl':'検索', 'event':'click'});"><span class="icon search"><img class="img" src="/img/icon_search.svg" alt="検索"/></span><span class="span">検索</span></a></li>
+        </ul>
+      </nav>
+    </header>
+    <main class="main theme-404" id="main">
+      <section class="inner">
+        <h2 class="ttl___404">アクセスしようとしたページが<br class="view-sp"/>見つかりませんでした</h2>
+        <p class="frame-border">ご指定のページは削除、変更されたか、現在利用できない可能性があります。<br/>URLをご確認ください。</p>
+        <p class="wrap__btn"><a class="btn" href="/">ポケモン図鑑トップ</a></p>
+      </section>
+    </main>
+    <div class="wrap__modal js-wrap-modal">
+      <nav>
+        <form class="form__sort modal is-sort js-modal" method="" action="">
+          <div class="header__modal">
+            <h2 class="ttl__modal is-sort"><img class="img" src="/img/icon_sort.svg" alt=""/>表示順を変える</h2>
+            <p class="close js-btn-close"><img class="img" src="/img/close.svg" alt="閉じる"/></p>
+          </div>
+          <div class="content__modal">
+            <h3 class="ttl__search"><img class="img" src="/img/ball.svg" alt=""/>ずかん番号</h3>
+            <ul class="list__search-btns">
+              <li class="item__list__search-btns">
+                <button class="btn js-sort js-sort_type-1 js-btn-resetPage" type="submit" name="sort_type" id="1" onclick="dataLayer.push({'click-ctg':'poke_zukan', 'click-act':'表示順モーダル', 'click-lbl':'1-9', 'event':'click'});"> <span class="inner">1<img class="img" src="/img/arrow_bk.svg" alt="→"/>9</span></button>
+              </li>
+              <li class="item__list__search-btns">
+                <button class="btn js-sort js-sort_type-2 js-btn-resetPage" type="submit" name="sort_type" id="2" onclick="dataLayer.push({'click-ctg':'poke_zukan', 'click-act':'表示順モーダル', 'click-lbl':'9-1', 'event':'click'});"><span class="inner">9<img class="img" src="/img/arrow_bk.svg" alt="→"/>1</span></button>
+              </li>
+            </ul>
+            <h3 class="ttl__search"><img class="img" src="/img/ball.svg" alt=""/>なまえ</h3>
+            <ul class="list__search-btns">
+              <li class="item__list__search-btns">
+                <button class="btn js-sort js-sort_type-3 js-btn-resetPage" type="button" name="sort_type" id="3" onclick="dataLayer.push({'click-ctg':'poke_zukan', 'click-act':'表示順モーダル', 'click-lbl':'ア-ン', 'event':'click'});"><span class="inner">ア<img class="img" src="/img/arrow_bk.svg" alt="→"/>ン</span></button>
+              </li>
+              <li class="item__list__search-btns">
+                <button class="btn js-sort js-sort_type-4 js-btn-resetPage" type="button" name="sort_type" id="4" onclick="dataLayer.push({'click-ctg':'poke_zukan', 'click-act':'表示順モーダル', 'click-lbl':'ン-ア', 'event':'click'});"><span class="inner">ン<img class="img" src="/img/arrow_bk.svg" alt="→"/>ア</span></button>
+              </li>
+            </ul>
+            <h3 class="ttl__search"><img class="img" src="/img/ball.svg" alt=""/>高さ</h3>
+            <ul class="list__search-btns">
+              <li class="item__list__search-btns">
+                <button class="btn js-sort js-sort_type-5 js-btn-resetPage" type="button" name="sort_type" id="5" onclick="dataLayer.push({'click-ctg':'poke_zukan', 'click-act':'表示順モーダル', 'click-lbl':'高-低', 'event':'click'});"><span class="inner">高い<img class="img" src="/img/arrow_bk.svg" alt="→"/>低い</span></button>
+              </li>
+              <li class="item__list__search-btns">
+                <button class="btn js-sort js-sort_type-6 js-btn-resetPage" type="button" name="sort_type" id="6" onclick="dataLayer.push({'click-ctg':'poke_zukan', 'click-act':'表示順モーダル', 'click-lbl':'低-高', 'event':'click'});"><span class="inner">低い <img class="img" src="/img/arrow_bk.svg" alt="→"/>高い</span></button>
+              </li>
+            </ul>
+            <h3 class="ttl__search"><img class="img" src="/img/ball.svg" alt="→"/>重さ</h3>
+            <ul class="list__search-btns">
+              <li class="item__list__search-btns">
+                <button class="btn js-sort js-sort_type-7 js-btn-resetPage" type="button" name="sort_type" id="7" onclick="dataLayer.push({'click-ctg':'poke_zukan', 'click-act':'表示順モーダル', 'click-lbl':'重-軽', 'event':'click'});"><span class="inner">重い<img class="img" src="/img/arrow_bk.svg" alt="→"/>軽い</span></button>
+              </li>
+              <li class="item__list__search-btns">
+                <button class="btn js-sort js-sort_type-8 js-btn-resetPage" type="button" name="sort_type" id="8" onclick="dataLayer.push({'click-ctg':'poke_zukan', 'click-act':'表示順モーダル', 'click-lbl':'軽-重', 'event':'click'});"><span class="inner">軽い<img class="img" src="/img/arrow_bk.svg" alt="→"/>重い</span></button>
+              </li>
+            </ul>
+          </div>
+        </form>
+        <form class="form__search modal is-search js-modal" method="" action="">
+          <div class="header__modal">
+            <h2 class="ttl__modal is-search"><img class="img" src="/img/icon_search.svg" alt=""/>タイプや条件で探す</h2>
+            <p class="close js-btn-close"><img class="img" src="/img/close.svg" alt="閉じる"/></p>
+          </div>
+          <div class="content__modal is-search">
+            <h3 class="ttl__search"><img class="img" src="/img/ball.svg" alt=""/>フリーワード</h3>
+            <input class="input js-word" placeholder="なまえやずかん番号でさがす" name="word"/>
+            <h3 class="ttl__search"><img class="img" src="/img/ball.svg" alt=""/>タイプ</h3>
+            <ul class="list__search is-type"></ul>
+            <h3 class="ttl__search"><img class="img" src="/img/ball.svg" alt=""/>地方</h3>
+            <ul class="list__search-btns is-area"></ul>
+            <h3 class="ttl__search"><img class="img" src="/img/ball.svg" alt=""/>特性</h3>
+            <div class="wrap__select">
+              <select class="select select-tokusei" name="tokusei">
+                <option class="item__select-default" value="">特性をえらぶ</option>
+              </select>
+            </div>
+            <h3 class="ttl__search"><img class="img" src="/img/ball.svg" alt=""/>番号</h3>
+            <div class="content__search-range">
+              <p class="text__search-range">
+                <input type="text" name="no_min" value="" readonly="readonly" id="min-number"/>&nbsp;～ 
+                <input type="text" name="no_max" value="" readonly="readonly" id="max-number"/>
+              </p>
+              <div id="js-rangeslider"></div>
+            </div>
+          </div>
+          <ul class="list__search-submit">
+            <li class="item__list__search-submit">
+              <div class="btn-search">
+                <button class="submit" type="submit" name="submit" onclick="dataLayer.push({'click-ctg':'poke_zukan', 'click-act':'検索モーダル', 'click-lbl':'検索', 'event':'click'});">
+                  <div class="inner">検索する</div>
+                </button>
+              </div>
+            </li>
+            <li class="item__list__search-submit">
+              <button class="btn reset" type="button" onclick="dataLayer.push({'click-ctg':'poke_zukan', 'click-act':'検索モーダル', 'click-lbl':'リセット', 'event':'click'});">
+                <div class="inner">条件をリセット</div>
+              </button>
+            </li>
+          </ul>
+        </form>
+      </nav>
+    </div>
+    <p class="pagetop" id="pagetop"><img src="/img/pagetop.svg" alt="pagetop"/></p>
+    <footer class="wrap__footer footer" id="footer">
+      <p class="tab__footer js-toggle"><img class="img" src="/img/arrow.svg" alt=""/></p>
+      <div class="content__footer js-wrap">
+        <div class="wrap__sns">
+          <div class="wrap__sns_inner">
+            <ul class="sns">
+              <li class="item__sns"><a class="link__sns is-twitter" onclick="dataLayer.push({'click-ctg':'poke_zukan', 'click-act':'フッター', 'click-lbl':'twitter', 'event':'click'});" rel="nofollow" onClick="window.open(encodeURI(decodeURI(this.href)),'twwindow','width=550, height=450, personalbar=0, toolbar=0, scrollbars=1'); return false;"><img class="icon" src="/img/icon_twitter.svg" alt="Twitter"/></a></li>
+              <li class="item__sns"><a class="link__sns is-fb" onclick="dataLayer.push({'click-ctg':'poke_zukan', 'click-act':'フッター', 'click-lbl':'facebook', 'event':'click'});" href=""><img class="icon" src="/img/icon_fb.svg" alt="Facebook"/></a></li>
+              <li class="item__sns"><a class="link__sns is-line" onclick="dataLayer.push({'click-ctg':'poke_zukan', 'click-act':'フッター', 'click-lbl':'line', 'event':'click'});" href=""><img class="icon" src="/img/icon_line.svg" alt="LINE"/></a></li>
+            </ul>
+            <div class="item__sns"><a class="link__sns is-official" onclick="dataLayer.push({'click-ctg':'poke_zukan', 'click-act':'フッター', 'click-lbl':'オフィシャルサイト', 'event':'click'});" href="https://www.pokemon.co.jp/" rel="noopener noreferrer" target="_blank"><span>ポケットモンスターオフィシャルサイト</span></a></div>
+          </div>
+        </div>
+        <div class="wrap__copyright">
+          <p class="copyright">&copy;<span class="year"> </span>&nbsp;Pokémon. ©1995-<span class="year"></span>&nbsp;Nintendo/Creatures Inc./GAME FREAK inc.<br/>ポケットモンスター・ポケモン・Pokémonは<br class="view-sp"/>任天堂・クリーチャーズ・ゲームフリークの登録商標です。</p>
+        </div>
+      </div>
+    </footer>
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=JSON%2CMap%2CObject.values"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js"></script>
+    <script src="/js/slick.min.js"></script>
+    <script src="/js/nouislider.min.js"></script>
+    <script src="/js/common.js"></script>
+    <script src="/js/search.js"></script>
+    <script src="./js/pickup.js"></script>
+    <script src="./js/mainlist.js"></script>
+  </body>
+</html>
