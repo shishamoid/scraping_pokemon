@@ -9,7 +9,7 @@ import uuid
 
 headers = {'User-Agent':'Mozilla/5.0'}
 driver=webdriver.Chrome("./chromedriver")
-baseurl="https://game8.jp/pokemon_sun_moon/87599"
+baseurl="https://game8.jp/pokemon_sun_moon/87596"
 
 #カウント用
 k=0
@@ -40,8 +40,8 @@ for target in pokemons:
     j+=1
     print(target)
     re=requests.get(target)
-    print(str(i)+"/"+str(k))
-    with open('pokemon_g3/' + str(pokemons_name[j-1])+str(".jpg"), 'wb') as f:
+    print(str(j)+"/"+str(k))
+    with open('pokemon_g1/' + str(pokemons_name[j-1])+str(".jpg"), 'wb') as f:
         f.write(re.content)
 
 print("finish")
